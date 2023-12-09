@@ -2,7 +2,7 @@
 
 During the Dashboarding Week at the Data Analytics Bootcamp with Le Wagon, I worked on a Power BI project for an e-commerce company specializing in selling necklaces online.
 
-As a **data analyst**, my objective was to analyze the available data and gain insights into `customer behavior on the company's website`.
+As a **data analyst**, my objective was to analyze the available data and gain insights into `customer behavior on the company's website`🔍.
 
 
 #### To begin the project:
